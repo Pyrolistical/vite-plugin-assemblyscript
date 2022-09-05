@@ -11,7 +11,9 @@ Tested with [AssemblyScript](https://www.assemblyscript.org/) 0.21.x
 
 ## Usage
 
-Copy `vite-plugin-assemblyscript.js` into your own project. There is no NPM release. The existing NPM package of the same name is not mine and does not work.
+1. Install [`assemblyscript`](https://www.npmjs.com/package/assemblyscript)
+2. Copy `vite-plugin-assemblyscript.js` into your own project. There is no NPM release. The existing NPM package of the same name is not mine and does not work.
+3. Add to `vite.config.js`
 
 ### `vite.config.js`
 
